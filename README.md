@@ -1,8 +1,6 @@
-# 👋 Hi, I’m @nhahuynh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 👋 Hi, I’m @nhahuynh 
 
 
-
-- 🌱 I’m currently learning API development
 
 ### **I'm a software developer. 👀 My interests are frontend development (React), mobile development, virtual reality, and building bots.
 
