@@ -2,15 +2,17 @@
 
 
 
-### **I'm a software developer. 👀 My interests are frontend development (React), mobile development, virtual reality, and building bots.
+### **I'm a software developer. 
 
--I'm the kind of person who loves learning new things and sharing the knowledge with others. 
+-I'm the kind of person who loves learning new things and sharing the knowledge with others. 👀 My interests are frontend development (React), mobile development, virtual reality, and building bots.
+
+
 
 ### My Stack
 
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E))
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB))
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
