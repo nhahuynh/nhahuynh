@@ -1,11 +1,10 @@
-# 👋 Hi, I’m Nha!
+# 👋 Hi, I’m Nha! 
 
 
 
 ### I'm a software developer. 
 
--I'm the kind of person who loves learning new things and sharing the knowledge with others. 👀 My interests are frontend development (React), mobile development, virtual reality, and building bots.
-
+I'm the kind of person who loves learning new things and sharing the knowledge with others. 👀 My interests are frontend development (React), 📱 mobile development, virtual reality, and 🤖 building bots. I also find space fascinating and awe-inspiring 🌌🌕🌠✨. 
 
 
 ### My Stack
