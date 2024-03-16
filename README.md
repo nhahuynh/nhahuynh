@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nha</h1>
-<h3 align="center">A full-stack JavaScript developer</h3>
+<h3 align="center">A full-stack .NET developer</h3>
 
 ### My Stack
 
